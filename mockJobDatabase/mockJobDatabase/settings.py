@@ -26,7 +26,7 @@ SECRET_KEY = '-jqlbxi4y_)t7xw%-*u0&ti*b$_@5&br29y&k%**0b6+^cr^z8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [codevalkyries.pythonanywhere.com]
 
 
 # Application definition
